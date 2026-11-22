@@ -5,4 +5,4 @@
 
 O diagrama abaixo representa a estrutura do banco de dados RPG_Online, incluindo suas tabelas, chaves primárias, chaves estrangeiras e relacionamentos.
 
-![Diagrama do Banco RPG Online](imagens/Diagrama_RPG_Online.png)
+![Diagrama do Banco RPG Online](Diagrama_RPG_Online.png)
